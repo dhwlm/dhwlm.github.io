@@ -1,6 +1,6 @@
 title:            Dhawal Mehta's Blog
 description:      A Blog
-disqus_shortname: 
+disqus_shortname:
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -17,26 +17,26 @@ owner:
   twitter:        https://twitter.com/dhwlm
   facebook:       https://www.facebook.com/dhawal.mehta.75
   github:         https://github.com/dhwlm
-  stackexchange:  
-  linkedin:       https://www.linkedin.com/in/dhawal-m-b70b186b/
+  stackexchange:  http://stackoverflow.com/users/3672563/dhawal-m
+  linkedin:       https://www.linkedin.com/in/dhwlm/
   instagram:      https://www.instagram.com/dhwl_m/
-  flickr:         
-  tumblr:         
+  flickr:
+  tumblr:
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 
 # Background image to be tiled on all pages
-background: 
+background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics: UA-98737680-1
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kolkata
-future:      false  # publish future dated posts --  true, false (default) 
+future:      false  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
 gems:
@@ -62,9 +62,9 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-include: 
+include:
   - .htaccess
-exclude: 
+exclude:
   - "*.less"
   - "*.sublime-project"
   - "*.sublime-workspace"
