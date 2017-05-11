@@ -14,12 +14,26 @@
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
+<meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:image" content="{{ site.url }}/images/og-image-dhawal-mehta-blog.jpg" />
+<meta property="og:image" content="{% if page.image %}{{ site.url }}/images/{{ page.image }}{% else %}{{ site.url }}/images/og-image-dhawal-mehta-blog.jpg{% endif %}" />
+{% if page.date %}
+  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+  <meta content="{{ site.url }}/about/" property="article:author">
+{% endif %}
+{% if page.categories %}
+  {% for category in page.categories limit:1 %}
+  <meta content="{{ category }}" property="article:section">
+  {% endfor %}
+{% endif %}
+{% if page.tags %}
+  {% for tag in page.tags %}
+  <meta content="{{ tag }}" property="article:tag">
+  {% endfor %}
+{% endif %}
 
 {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
 {% if site.bing_verify %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
