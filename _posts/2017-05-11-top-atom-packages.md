@@ -3,7 +3,6 @@ layout: post
 title: "Top Most Useful Atom Packages"
 description: "Custom written post descriptions are the way to go... if you're not lazy."
 tags: [Top Most Useful Atom Packages,Atom Packages,Most Useful,Atom,Packages,Delete Lines]
-modified: 2017-05-12
 image:
   feature: blog-atom-package.jpg
   credit: unsplash
