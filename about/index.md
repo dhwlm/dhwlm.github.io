@@ -2,9 +2,13 @@
 layout: page
 title: Dhawal Mehta
 image:
-  feature: abstract-5.jpg
+  feature: dhawal-mehta.jpg
 comments: false
 modified: 2017-05-11
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello, My name is Dhawal Mehta. I'm a UI/UX Developer & a Web/Tech Enthusiast. I build Corporate Websites, Web Portfolios, User Interfaces, Web Applications, Landing Pages.
+
+I transform thoughts, concepts & ideas into well thought out cross-browser compatible design specs in exchange for Green stuff. :P
+
+[Know More...](https://dhawalmehta.com "Dhawal Mehta")
