@@ -11,4 +11,4 @@ Hello, My name is Dhawal Mehta. I'm a UI/UX Developer & a Web/Tech Enthusiast. I
 
 I transform thoughts, concepts & ideas into well thought out cross-browser compatible design specs in exchange for Green stuff. :P
 
-[Know More...](https://dhawalmehta.com "Dhawal Mehta")
+[Know More...](http://dhawalmehta.com "Dhawal Mehta")
