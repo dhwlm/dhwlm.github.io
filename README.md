@@ -1,5 +1,7 @@
 # Dhawal Mehta's Blog
 
-They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing [my first two themes](https://mademistakes.com/work/jekyll-themes/), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory.
+Hello, My name is Dhawal Mehta. I'm a UI/UX Developer & a Web/Tech Enthusiast. I transform thoughts, concepts & ideas into well thought out cross-browser compatible design specs, in exchange for green stuff. :P
+
+This repo is for my blog using this [jekyll-theme](https://mademistakes.com/work/hpstr-jekyll-theme/)
 
 **[www.dhawalmehta.com](http://www.dhawalmehta.com/)**
