@@ -4,4 +4,4 @@ Hello, My name is Dhawal Mehta. I'm a UI/UX Developer & a Web/Tech Enthusiast. I
 
 This repo is for my blog using this [jekyll-theme](https://mademistakes.com/work/hpstr-jekyll-theme/)
 
-**[www.dhawalmehta.com](http://www.dhawalmehta.com/)**
+**[Blog](http://blog.dhawalmehta.com/)** | **[Main Site](http://www.dhawalmehta.com/)**
