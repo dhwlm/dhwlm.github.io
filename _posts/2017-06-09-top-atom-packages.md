@@ -119,4 +119,4 @@ Synchronize all your settings and packages across atom instances
 	<figcaption>create and insert Gists. </figcaption>
 </figure>
 
-Are you using atom? did I miss out on your favorite package?
+Are you using Atom? did I miss out on your favorite package?
