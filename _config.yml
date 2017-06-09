@@ -1,6 +1,6 @@
 title:            Dhawal Mehta's Blog
 description:      A Blog
-disqus_shortname:
+disqus_shortname: dhawalmehtablog.disqus.com
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -17,7 +17,7 @@ owner:
   twitter:        https://twitter.com/dhwlm
   facebook:       https://www.facebook.com/dhawal.mehta.75
   github:         https://github.com/dhwlm
-  stackexchange:  http://stackoverflow.com/users/3672563/dhawal-m
+  # stackexchange:  http://stackoverflow.com/users/3672563/dhawal-m
   linkedin:       https://www.linkedin.com/in/dhwlm/
   instagram:      https://www.instagram.com/dhwl_m/
   flickr:
@@ -30,7 +30,7 @@ background:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-98737680-1
-google_verify:
+google_verify: w1HmuQJ292m7QtIsb7AkcsisXk446OCpj6DZIsGYKQc
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
