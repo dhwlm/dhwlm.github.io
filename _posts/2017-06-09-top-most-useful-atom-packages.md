@@ -9,7 +9,7 @@ image:
 
 I have recently switched from [Sublime Text 3](https://www.sublimetext.com/3){:target="_blank"} to using [Atom](https://atom.io/){:target="_blank"} & I have fallen in love with it. Atom is a hackable text editor made by GitHub which has many advantages and is free to use.
 
-Now, I know that there are some drawbacks of using Atom (one of it being laggy/sluggish with files having more than 1000lines of code approx) over sublime but thats a topic for another discussion.
+Now, I know that there are some drawbacks of using Atom (one of it being laggy/sluggish with files having more than 1000lines of code approx) over sublime but that's a topic for another discussion.
 
 There are many preinstalled or core packages but to make the most out of Atom you need to install community packages.
 
