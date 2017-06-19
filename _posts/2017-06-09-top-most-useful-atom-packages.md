@@ -2,7 +2,7 @@
 layout: post
 title: "Top Most Useful Atom Packages"
 description: "I have recently switched from Sublime Text 3 to using Atom & I have fallen in love with it. Atom is a hackable text editor made by GitHub which has many advantages and is free to use."
-tags: [Top Most Useful Atom Packages,Atom Packages]
+tags: [Top Most Useful Atom Packages,atom packages,atom, atom editor,code editor,editor,packages]
 image:
   feature: blog-atom-package.jpg
 ---
