@@ -5,6 +5,8 @@ description: "I have recently switched from Sublime Text 3 to using Atom & I hav
 tags: [Top Most Useful Atom Packages,atom packages,atom, atom editor,code editor,editor,packages]
 image:
   feature: blog-atom-package.jpg
+  credit: unsplash
+  creditlink: https://unsplash.com/search/desk?photo=jLwVAUtLOAQ
 ---
 
 I have recently switched from [Sublime Text 3](https://www.sublimetext.com/3){:target="_blank"} to using [Atom](https://atom.io/){:target="_blank"} & I have fallen in love with it. Atom is a hackable text editor made by GitHub which has many advantages and is free to use.
