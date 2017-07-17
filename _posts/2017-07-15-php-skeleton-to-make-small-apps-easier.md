@@ -3,6 +3,7 @@ layout: post
 title: "My Php Skeleton/boilerplate to make small scale apps from scratch"
 description: "As Web Developers our main goal is to do as little work as possible. "
 tags: [php, boilerplate, ]
+modified: 2017-07-17
 image:
   feature: abstract-6.jpg
 ---
@@ -53,4 +54,4 @@ For now, I've included Bootstrap CSS, Bootstrap Theme, Bootstrap JS, FontAwesome
 This PHP Skeleton/Boilerplate has been made taking in consideration my personal usage and also it is in active development. I would appreciate any comments or suggestions that will help me to enhance this project.
 
 ## Licensing
-Released under MIT License :p
+Released under [MIT License](https://dhawal.mit-license.org/){:target="_blank"} :p
