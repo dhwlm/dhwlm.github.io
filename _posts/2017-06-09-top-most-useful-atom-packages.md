@@ -5,6 +5,7 @@ description: "I have recently switched from Sublime Text 3 to using Atom & I hav
 tags: [Top Most Useful Atom Packages,atom packages,atom, atom editor,code editor,editor,packages]
 image:
   feature: blog-atom-package.jpg
+  path: /images/blog-atom-package.jpg
   credit: unsplash
   creditlink: https://unsplash.com/search/desk?photo=jLwVAUtLOAQ
 ---

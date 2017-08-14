@@ -37,13 +37,14 @@ bing_verify:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kolkata
 future:      false  # publish future dated posts --  true, false (default)
-highlighter: rouge 
+highlighter: rouge
 markdown:    kramdown
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+  - github-pages
 sass:
   sass_dir: _sass
   style: compressed
