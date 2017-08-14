@@ -39,11 +39,12 @@ timezone:    Asia/Kolkata
 future:      false  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+  - github-pages
 sass:
   sass_dir: _sass
   style: compressed

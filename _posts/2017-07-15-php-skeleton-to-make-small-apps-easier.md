@@ -5,8 +5,8 @@ description: "As Web Developers our main goal is to do as little work as possibl
 tags: [php, boilerplate, ]
 modified: 2017-07-17
 image:
-  feature: abstract-6.jpg
-  path: /images/abstract-6.jpg
+  feature: abstract-6-new.jpg
+  path: /images/abstract-6-new.jpg
 ---
 
 ![Logo of the project](https://raw.githubusercontent.com/dhwlm/php-skeleton/master/assets/images/content/read-me-php-boilerplate.png)
