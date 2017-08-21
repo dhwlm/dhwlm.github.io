@@ -19,6 +19,5 @@ Did you know you can take screenshots of web pages inside Google Chrome **withou
 
 To get started,
 1. Open Developer tools `` ⌘ + ⌥ + i `` (Mac) or `` Ctrl + Shift + I `` (windows) or Chrome Settings -> More Tools -> Developer Tools.
-2. Open Command Menu
-  *  [Latest version of Google Chrome (Chrome 59)](https://developers.google.com/web/updates/2017/04/devtools-release-notes){:target="_blank"} introduces Command Menu (command palette like in sublime and atom), which can be opened by ``  ⌘ + ⇧ + P `` (Mac) or `` Ctrl + Shift + P `` (Windows, Linux) inside DevTools.
+2. Open Command Menu -- [Latest version of Google Chrome (Chrome 59)](https://developers.google.com/web/updates/2017/04/devtools-release-notes){:target="_blank"} introduces Command Menu (command palette like in sublime and atom), which can be opened by ``  ⌘ + ⇧ + P `` (Mac) or `` Ctrl + Shift + P `` (Windows, Linux) inside DevTools.
 3. Start typing screenshot and select **Capture full size screenshot**. and aahaa!! that's it.
