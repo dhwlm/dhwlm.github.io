@@ -9,8 +9,6 @@ image:
   path: /images/wordpress-boilerplate-theme.jpg
 ---
 
-# Wordpress Theme Boilerplate
-
 I found myself writing the same starter wordpress theme time and time again, so I decided to create this simple boilerplate to help reduce the time required when starting a new wordpress theme. This will give you the basic files and structure of the theme.
 
 ## Installing / Getting started
