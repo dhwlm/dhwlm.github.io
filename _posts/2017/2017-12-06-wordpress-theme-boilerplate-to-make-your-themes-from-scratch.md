@@ -12,7 +12,7 @@ image:
 I found myself writing the same starter wordpress theme time and time again, so I decided to create this simple boilerplate to help reduce the time required when starting a new wordpress theme. This will give you the basic files and structure of the theme.
 
 ## Installing / Getting started
-
+---
 Download/clone the boilerplate theme from my [github repo](https://github.com/dhwlm/wordpress-theme-boilerplate){:target="_blank"}
 
 ```shell
@@ -22,27 +22,27 @@ git clone https://github.com/dhwlm/wordpress-theme-boilerplate.git your-theme-na
 This will create a folder with 'your-theme-name' and the boilerplate files inside it. You can then choose this theme from the wordpress admin panel.
 
 ## Content
-
+---
 ### Folder Structure
 
-```shell
-|-assets
-  |-css
-    |-admin.css
-    |-theme.css
-|-inc
-  |-customizer
-    |-logo-customizer.php
-  |-limit-login-attempts.php
-  |-rebranding.php
-  |-remove-junk.php
-|-footer.php
-|-functions.php
-|-header.php
-|-index.php
-|-README.md
-|-single.php
-|-style.css
+```terminal
+|-- assets
+  |-- css
+    |-- admin.css
+    |-- theme.css
+|-- inc
+  |-- customizer
+    |-- logo-customizer.php
+  |-- limit-login-attempts.php
+  |-- rebranding.php
+  |-- remove-junk.php
+|-- footer.php
+|-- functions.php
+|-- header.php
+|-- index.php
+|-- README.md
+|-- single.php
+|-- style.css
 ```
 
 ### File Usage/Explaination
@@ -81,7 +81,7 @@ Please follow this checklist to complete the basic theme folder
 
 
 ## About the Author
-
+---
 This Wordpress Theme boilerplate is created and maintained by [Dhawal Mehta](http://dhawalmehta.com).
 
 ### Disclaimer
@@ -89,5 +89,5 @@ This Wordpress Theme boilerplate is created and maintained by [Dhawal Mehta](htt
 This Wordpress Theme boilerplate has been made taking in consideration my personal usage and also it is in active development. I would appreciate any suggestions that will help me to enhance this project.
 
 ## Licensing
-
+---
 [MIT license](https://dhawal.mit-license.org/){:target="_blank"}
