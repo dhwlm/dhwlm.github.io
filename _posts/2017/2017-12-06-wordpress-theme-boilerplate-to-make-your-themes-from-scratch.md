@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Wordpress theme boilerplate to make your wordpress themes from scratch"
+title: "Wordpress theme boilerplate to make your themes from scratch"
 description: "As Web Developers our main goal is to do as little work as possible. "
 date: "2017-12-06 17:57"
 tags: [wordpress, theme, boilerplate ]
