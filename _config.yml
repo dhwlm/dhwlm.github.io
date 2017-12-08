@@ -14,12 +14,12 @@ owner:
   bio:            "Dhawal Mehta is an experienced User Interface Designer & Developer with a demonstrated history of working in the internet industry."
   email:          dhawalmehta91@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/dhwlm
-  facebook:       https://www.facebook.com/dhawal.mehta.75
-  github:         https://github.com/dhwlm
+  twitter:        dhwlm
+  facebook:       dhawal.mehta.75
+  github:         dhwlm
   # stackexchange:  http://stackoverflow.com/users/3672563/dhawal-m
-  linkedin:       https://www.linkedin.com/in/dhwlm/
-  instagram:      https://www.instagram.com/dhwl_m/
+  linkedin:       dhwlm
+  instagram:      dhwl_m
   flickr:
   tumblr:
   # google plus id, include the '+', eg +mmistakes
