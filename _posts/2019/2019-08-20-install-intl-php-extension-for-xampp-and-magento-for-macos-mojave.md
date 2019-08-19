@@ -100,6 +100,6 @@ you can now delete all files you downloaded and also the extracted folders.
 
 Open /Applications/XAMPP/xamppfiles/etc/php.ini , and add ``extension=intl.so``
 
-That's it! It should work now. You have to run these commands each time you install a new version of XAMPP. 
+That's it!  Restart your Apache using XAMPP GUI and it should work. You have to run these commands each time you install a new version of XAMPP. 
 
 Cheers, and if I helped you save some precious time, [buy me a beer](https://www.paypal.me/dhawalm)!
