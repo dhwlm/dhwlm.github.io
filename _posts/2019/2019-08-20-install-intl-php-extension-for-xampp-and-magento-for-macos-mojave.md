@@ -64,7 +64,7 @@ For XAMPP, installing intl extension was pain in the butt, firstly because this 
 Some solutions used brew packages which are now deprecated/deleted/moved. (using php71-intl ).  
 `` brew tap kyslik/homebrew-php `` & `` brew install kyslik/php/php71-intl ``
 
-Finally I got it to work using the following steps. Overall idea is to build the intl-extension from PHP source code on your own. 
+Finally I got it to work using the following steps. Overall idea is to build the intl-extension from PHP source code on your own. Firstly, check ``which php`` path is set. it should be ``/Applications/XAMPP/xamppfiles/bin/php``. If not you can change it by ``PATH="/Applications/XAMPP/xamppfiles/bin:${PATH}"``. [More detail here](https://stackoverflow.com/a/32404183/3672563)
 
 Before you begin make sure you have installed Xcode. Also, install the latest version of autoconf. this might help: 
 ```shell
