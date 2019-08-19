@@ -8,7 +8,7 @@ image:
   path: images/macos-intl-php-extension-for-xampp.jpg
 ---
 
-If you are trying to install Magento on MacOS, welcome, let me help you save some time. After a lot of research I was finally able to resolve this. The issue is with PHP Extension in macOS, and especially with XAMPP.
+If you are trying to install Magento on MacOS and have run into this error ``“PHP Extension intl.” missing``. Welcome, let me help you save some time. After a lot of research I was finally able to resolve this. The issue is with PHP Extension in macOS, and especially with XAMPP.
 
 There are multiple ways to get it to work on macOS,
 1. Using built-in Apache and PHP
