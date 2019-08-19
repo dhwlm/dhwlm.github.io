@@ -8,7 +8,7 @@ image:
   path: images/macos-intl-php-extension-for-xampp.jpg
 ---
 
-If you are trying to install Magento on MacOS, welcome, let me help you save some time. After a lot of research I finally was able to resolve this. The issue is with PHP Extension in macOS, and especially with XAMPP.
+If you are trying to install Magento on MacOS, welcome, let me help you save some time. After a lot of research I was finally able to resolve this. The issue is with PHP Extension in macOS, and especially with XAMPP.
 
 There are multiple ways to get it to work on macOS,
 1. Using built-in Apache and PHP
@@ -57,7 +57,7 @@ which php
 ```
 (it should be the one which you just installed: /usr/local/opt/php@7.1/... )
 
-Now I have couple of projects already running on my mac with XAMPP. And switching between built-in Apache and XAMPP or MAMP to run my projects was too confusing and time consuming. So I was hoping to find a solution to get it to for XAMPP.
+Now I have couple of projects already running on my mac with XAMPP. And switching between built-in Apache and XAMPP or MAMP to run my projects was too confusing and time consuming. So I was hoping to find a solution to get it to work for XAMPP.
 
 For XAMPP, installing intl extension was pain in the butt, firstly because this extension is not provided by XAMPP out of the box. I had almost given up, most of the solutions didn't work for me. Mainly because they were meant for PHP5.6 and not for PHP7. (using pecl) I kept getting this error: "fatal error: 'ext/standard/php_smart_str.h' file not found" . Even tried to build the intl-extension using macports instead of pecl. but no luck.
 
@@ -100,7 +100,6 @@ you can now delete all files you downloaded and also the extracted folders.
 
 Open /Applications/XAMPP/xamppfiles/etc/php.ini , and add ``extension=intl.so``
 
-That's it! It should work now. You have to run this command each time you install a new version of XAMPP. 
+That's it! It should work now. You have to run these commands each time you install a new version of XAMPP. 
 
-Cheers,
-If I helped you save some precious time, [buy me a beer](https://www.paypal.me/dhawalm)!
+Cheers, and if I helped you save some precious time, [buy me a beer](https://www.paypal.me/dhawalm)!
